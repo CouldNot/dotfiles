@@ -5,7 +5,6 @@
 
 ## Programs used
 | Distribution   | [Arch Linux](https://www.archlinux.org)       |
-| -------------- | --------------------------------------------- |
 | Color scheme   | [Gruvbox](https://github.com/morhetz/gruvbox) |
 | Window Manager | [i3](https://www.i3wm.org)                    |
 | Compositor     | [picom](https://github.com/yshui/picom)       |
