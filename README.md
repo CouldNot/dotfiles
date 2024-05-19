@@ -1,6 +1,4 @@
 # dotfiles
 
-## Screenshots
-![Empty](./.assets/empty.png)
+## Screenshot
 ![Sysinfo](./.assets/sysinfo.png)
-![Tiled](./.assets/tiled.png)
