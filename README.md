@@ -10,7 +10,9 @@
 | Color scheme   | [Gruvbox](https://github.com/morhetz/gruvbox) |
 | Window Manager | [i3](https://www.i3wm.org)                    |
 | Compositor     | [picom](https://github.com/yshui/picom)       |
+| Launcher       | [rofi](https://github.com/davatorium/rofi)    |
 | Bar            | [Polybar](https://github.com/polybar/polybar) |
+| Shell          | [fish](https://fishshell.com/)                |
 | Terminal       | [kitty](https://github.com/kovidgoyal/kitty)  |
 | Font           | [JetBrains Mono](https://www.jetbrains.com/lp/mono/)  |
 | Editor         | [NvChad](https://nvchad.com/)                 |
