@@ -1,5 +1,7 @@
 # CouldNot's dotfiles
 
+Note: new users will have to update certain packages accordingly, since this setup is no longer maintained. Make sure to check up-to-date documentation for any errors!
+
 ## Showcase
 ![Sysinfo](./.assets/sysinfo.png)
 
